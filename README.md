@@ -51,3 +51,19 @@ Interpersonal Skills -	Communication 🗣, Teamwork 🤝, Resilience 💪, Criti
 
 
 ## 📁 Projects
+
+Blackspot-Prediction-in-Victoria
+
+https://github.com/Parthshh19/Blackspot-Prediction-in-Victoria.git
+
+Restaurant-Ratings-Prediction
+
+https://github.com/Parthshh19/Restaurant-Ratings-Prediction
+
+Phishing-Campaign-Dashboard-using-Power-BI
+
+https://github.com/Parthshh19/Phishing-Campaign-Dashboard-using-Power-BI.git
+
+EV-Ownership-Tableau-Dashboard
+
+https://github.com/Parthshh19/EV-Ownership-Tableau-Dashboard.git
