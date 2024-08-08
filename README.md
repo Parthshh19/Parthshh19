@@ -17,29 +17,27 @@ Deakin University, Burwood, Melbourne
 Guru Gobind Singh Indraprastha University, New Delhi, India 
 
  • Achieved: High Distinction Average (GPA-8.95/10)   
- • Volunteered for Enactus Msi and Girl Up Union and got leadership roles
+ • Volunteered for Enactus Msi and Girl Up Union and got leadership roles 
  
-
 ## 💼 Work Experience
 
 ### Research Analyst | Citixsys (August 2022 - March 2023)
 
 • Collecting all information like (Revenue of Company, Company Location, Number of branches of company) using website ZoomInfo Apollo, Lusha, LinkedIn Sales Navigator, Crunchbase etc. 
-
 • Work on Pardot Data, Customer Data Project & Dashboard. 
-
 • Searching Contact information (Email and Contact Numbers) of C-level employees like: - CEO, CFO, Directors, Shareholders, Marketing Directors, Owners, Founders etc. 
-
 • Adding new contacts into targeted industry and person email campaigns using Outreach and Salesforce CRM. 
-
 • Focus on lead development within companies based worldwide. 
-
 • Perform research to capture contact information where needed to develop a profile of companies for sell-in opportunities. 
-
 • Responsible for Conducting Primary and Secondary Web Research and aimed at supporting and maintaining knowledge base of the sales pipeline. 
-
 • Check the accuracy of the data on a particular website by comparing the content on various other website and wed portals.
 
 ## 🛠️ Skills and Technical Capabilities
+
+Machine Learning - Python, R
+Data Analysis - Excel, Power BI, Tableau
+Project Management - Agile, Tradiional, Hybrid
+Interpersonal Skills -	Communication 🗣, Teamwork 🤝, Resilience 💪, Critical Thinking 🧠, Adaptability 🌿, Time Management 🕐, Problem Solving 🔍, Leadership 👑
+
 
 ## 📁 Projects
