@@ -41,7 +41,7 @@ Guru Gobind Singh Indraprastha University, New Delhi, India
 
 ## 🛠️ Skills and Technical Capabilities
 
-Machine Learning - Python, R
+Machine Learning - Python, R, RapidMiner
 
 Data Analysis - Excel, Power BI, Tableau
 
