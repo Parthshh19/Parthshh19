@@ -41,11 +41,13 @@ Guru Gobind Singh Indraprastha University, New Delhi, India
 
 ## 🛠️ Skills and Technical Capabilities
 
-Machine Learning - Python, R, RapidMiner
+Data science: Data wrangling (R, SQL, Spreadsheet), Machine Learning, Statistical Modelling, RapidMiner and Data Modelling. 
 
-Data Analysis - Excel, Power BI, Tableau
+Data Visualisation: Power BI, Tableau, Excel
 
-Project Management - Agile, Tradiional, Hybrid
+Project management: Agile, Traditional and Hybrid 
+
+Quantitative: Algorithms and Analysis, Practical Business Analytics, Machine Learning, Discrete Mathematics, AI, and Practical Statistics. 
 
 Interpersonal Skills -	Communication 🗣, Teamwork 🤝, Resilience 💪, Critical Thinking 🧠, Adaptability 🌿, Time Management 🕐, Problem Solving 🔍, Leadership 👑
 
