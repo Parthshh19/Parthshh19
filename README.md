@@ -23,21 +23,15 @@ Guru Gobind Singh Indraprastha University, New Delhi, India
 
 ### Research Analyst | Citixsys (August 2022 - March 2023)
 
-• Collecting all information like (Revenue of Company, Company Location, Number of branches of company) using website ZoomInfo Apollo, Lusha, LinkedIn Sales Navigator, Crunchbase etc. 
+•	Conducted secondary market research on projects, both qualitative and quantitative.
 
-• Work on Pardot Data, Customer Data Project & Dashboard. 
+•	Focused on lead development within companies based in the Middle East, North America, South Africa & Latin America with 100 new updates on Salesforce CRM daily.
 
-• Searching Contact information (Email and Contact Numbers) of C-level employees like: - CEO, CFO, Directors, Shareholders, Marketing Directors, Owners, Founders etc. 
+•	Contact Discovery and Quality Assurance (CDQA) via professional networking and web-based sites like, LinkedIn, Lusha, Zoominfo, Apollo and Crunchbase.
 
-• Adding new contacts into targeted industry and person email campaigns using Outreach and Salesforce CRM. 
+•	Extracted actionable insights from complex data sets contributing to a 15% increase in lead generation and developed interactive dashboards to assist the Inside Sales and Partner Development Team.
 
-• Focus on lead development within companies based worldwide. 
-
-• Perform research to capture contact information where needed to develop a profile of companies for sell-in opportunities. 
-
-• Responsible for Conducting Primary and Secondary Web Research and aimed at supporting and maintaining knowledge base of the sales pipeline. 
-
-• Check the accuracy of the data on a particular website by comparing the content on various other website and wed portals.
+•	Ensured data accuracy and conducted data validation to ensure data quality and consistency.
 
 ## 🛠️ Skills and Technical Capabilities
 
@@ -45,11 +39,13 @@ Data science: Data wrangling (R, SQL, Spreadsheet), Machine Learning, Statistica
 
 Data Visualisation: Power BI, Tableau, Excel
 
+Lead Generation: Salesforce, Lusha, Apollo, LinkedIn Sales Navigator, Zoominfo, Crunchbase
+
 Project management: Agile, Traditional and Hybrid 
 
 Quantitative: Algorithms and Analysis, Practical Business Analytics, Machine Learning, Discrete Mathematics, AI, and Practical Statistics. 
 
-Interpersonal Skills -	Communication 🗣, Teamwork 🤝, Resilience 💪, Critical Thinking 🧠, Adaptability 🌿, Time Management 🕐, Problem Solving 🔍, Leadership 👑
+Interpersonal Skills:	Communication 🗣, Teamwork 🤝, Resilience 💪, Critical Thinking 🧠, Adaptability 🌿, Time Management 🕐, Problem Solving 🔍, Leadership 👑
 
 
 ## 📁 Projects
