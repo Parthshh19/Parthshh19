@@ -9,7 +9,6 @@ As a highly motivated data enthusiast, I'm passionate about solving problems and
 ### Master of Business Analytics (July 2023 – July 2025)
 Deakin University, Burwood, Melbourne 
 
-• Majors: Information Systems and Artificial Intelligence  
 • Achieved: Distinction Average   
 • Recipient of Deakin International Meritorious 25% Scholarship                                                                                                              
  
@@ -29,24 +28,19 @@ Guru Gobind Singh Indraprastha University, New Delhi, India
 
 •	Contact Discovery and Quality Assurance (CDQA) via professional networking and web-based sites like, LinkedIn, Lusha, Zoominfo, Apollo and Crunchbase.
 
-•	Extracted actionable insights from complex data sets contributing to a 15% increase in lead generation and developed interactive dashboards to assist the Inside Sales and Partner Development Team.
+•	Extracted actionable insights from complex data sets contributing to lead generation and developed interactive dashboards to assist the Inside Sales and Partner Development Team.
 
 •	Ensured data accuracy and conducted data validation to ensure data quality and consistency.
 
 ## 🛠️ Skills and Technical Capabilities
 
-Data science: Data wrangling (R, SQL, Spreadsheet), Machine Learning, Statistical Modelling, RapidMiner and Data Modelling. 
+Data Visualisation: Power BI, Tableau, Excel, SQL                                                                                          
 
-Data Visualisation: Power BI, Tableau, Excel
+Data Science: Data wrangling (Python, Spreadsheets), Machine Learning (Regression, Decision Trees, K means, Forecasting), Deep Learning (ANN, CNN for Image Classification), and Natural Language Processing (Aspect-Based Sentiment Analysis, Emotional-Based Sentiment Analysis, Topic Modeling with LDA).            •  
 
-Lead Generation: Salesforce, Lusha, Apollo, LinkedIn Sales Navigator, Zoominfo, Crunchbase
+Analytical Skills: Data analysis, Trend identification, Actionable recommendations.                                       
 
-Project management: Agile, Traditional and Hybrid 
-
-Quantitative: Algorithms and Analysis, Practical Business Analytics, Machine Learning, Discrete Mathematics, AI, and Practical Statistics. 
-
-Interpersonal Skills:	Communication 🗣, Teamwork 🤝, Resilience 💪, Critical Thinking 🧠, Adaptability 🌿, Time Management 🕐, Problem Solving 🔍, Leadership 👑
-
+Interpersonal skills: Communication Skills, Teamwork, Resilience, Critical Thinking, Adaptability, Time Management, Problem Solving and Leadership
 
 ## 📁 Projects
 
