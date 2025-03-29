@@ -7,16 +7,13 @@ As a highly motivated data enthusiast, I'm passionate about solving problems and
 ## 🎓 Education
 
 ### Master of Business Analytics (July 2023 – July 2025)
-Deakin University, Burwood, Melbourne 
 
 • Achieved: Distinction Average   
 • Recipient of Deakin International Meritorious 25% Scholarship                                                                                                              
  
 ### Bachelor of Business Administration (September 2019 - June 2022)
-Guru Gobind Singh Indraprastha University, New Delhi, India 
 
  • Achieved: High Distinction Average (GPA-8.95/10)   
- • Volunteered for Enactus Msi and Girl Up Union and got leadership roles 
  
 ## 💼 Work Experience
 
@@ -34,13 +31,18 @@ Guru Gobind Singh Indraprastha University, New Delhi, India
 
 ## 🛠️ Skills and Technical Capabilities
 
-Data Visualisation: Power BI, Tableau, Excel, SQL                                                                                          
+	Programming: Python (Pandas, NumPy, Seaborn, Matplotlib, TensorFlow)
 
-Data Science: Data wrangling (Python, Spreadsheets), Machine Learning (Regression, Decision Trees, K means, Forecasting), Deep Learning (ANN, CNN for Image Classification), and Natural Language Processing (Aspect-Based Sentiment Analysis, Emotional-Based Sentiment Analysis, Topic Modeling with LDA).            •  
+	Databases: MySQL
 
-Analytical Skills: Data analysis, Trend identification, Actionable recommendations.                                       
+	Visualization: Power BI, Tableau
 
-Interpersonal skills: Communication Skills, Teamwork, Resilience, Critical Thinking, Adaptability, Time Management, Problem Solving and Leadership
+	Tools: Microsoft Excel
+
+	Analytics & Modeling: Predictive Analytics, Machine Learning (Regression, Decision Trees, K-    means, Forecasting), Deep Learning (ANN, CNN for Image Classification), and Natural Language Processing (Aspect-Based Sentiment Analysis, Emotional-Based Sentiment Analysis, Topic Modeling with LDA), Data Mining
+
+	Interpersonal skills: Communication Skills, Teamwork, Resilience, Critical Thinking, Adaptability, Time Management, Problem Solving and Leadership.
+
 
 ## 📁 Projects
 
