@@ -17,47 +17,98 @@ As a highly motivated data enthusiast, I'm passionate about solving problems and
  
 ## 💼 Work Experience
 
-### Research Analyst | Citixsys (August 2022 - March 2023)
+### Business Analyst Capstone Project, World Vision Australia (July 2024 – October 2024)
 
-•	Conducted secondary market research on projects, both qualitative and quantitative.
+• Performed in-depth data analysis to uncover trends in supporter engagement across various channels. 
 
-•	Focused on lead development within companies based in the Middle East, North America, South Africa & Latin America with 100 new updates on Salesforce CRM daily.
+• Built and evaluated predictive models to forecast financial outcomes, enabling informed decisions. 
 
-•	Contact Discovery and Quality Assurance (CDQA) via professional networking and web-based sites like, LinkedIn, Lusha, Zoominfo, Apollo and Crunchbase.
+• Provided data-backed recommendations to improve donation performance through segmentation and donor 
+behaviour analysis directly to the client. 
 
-•	Extracted actionable insights from complex data sets contributing to lead generation and developed interactive dashboards to assist the Inside Sales and Partner Development Team.
+### Research Analyst, Citixsys-iVend (August 2022 - March 2023)
 
-•	Ensured data accuracy and conducted data validation to ensure data quality and consistency.
+• Led lead development efforts across the Middle East, North America, South Africa, and Latin America, updating 
+Salesforce CRM with 100+ new records daily. 
+
+• Performed contact discovery and quality assurance (CDQA) using tools such as LinkedIn, Lusha, Zoominfo, 
+Apollo, and Crunchbase, ensuring the accuracy and relevance of prospect data. 
+
+• Extracted actionable insights from complex datasets, contributing to a 10% increase in lead generation and 
+designed interactive dashboards to support the Inside Sales and Partner Development teams.
+
+• Ensured data accuracy and conducted thorough data validation, improving data quality, consistency, and overall 
+decision-making processes. 
 
 ## 🛠️ Skills and Technical Capabilities
 
-	Programming: Python (Pandas, NumPy, Seaborn, Matplotlib, TensorFlow)
+▪ Programming: Python (Pandas, NumPy, Seaborn, Matplotlib, TensorFlow) 
 
-	Databases: MySQL
+▪ Databases: MySQL 
 
-	Visualization: Power BI, Tableau
+▪ Visualization: Power BI, Tableau, Microsoft Excel (PivotTables, VLOOKUP) 
 
-	Tools: Microsoft Excel
+▪ Analytics & Modeling: Predictive Analytics, Machine Learning, Data Mining 
 
-	Analytics & Modeling: Predictive Analytics, Machine Learning (Regression, Decision Trees, K-    means, Forecasting), Deep Learning (ANN, CNN for Image Classification), and Natural Language Processing (Aspect-Based Sentiment Analysis, Emotional-Based Sentiment Analysis, Topic Modeling with LDA), Data Mining
-
-	Interpersonal skills: Communication Skills, Teamwork, Resilience, Critical Thinking, Adaptability, Time Management, Problem Solving and Leadership.
+▪ Interpersonal skills: Communication Skills, Teamwork, Resilience, Critical Thinking, Adaptability, Time Management, Problem Solving, Leadership. 
 
 
 ## 📁 Projects
 
-Blackspot-Prediction-in-Victoria
+ 
+### Phishing Campaign Analysis (https://github.com/Parthshh19/Phishing-Campaign-Dashboard-PowerBI)
 
-https://github.com/Parthshh19/Blackspot-Prediction-in-Victoria.git
+• Dashboard Development: Designed 3 interactive Power BI dashboards for Campaign Managers, HR, and end
+users to analyse simulated phishing attack data improving cybersecurity awareness. 
 
-Restaurant-Ratings-Prediction
+• Data Analysis: Identified key trends like Excel/Word attachments had the highest click rate (22%), 
+Promotional/Security alert emails were most effective, and Australian employees had the highest successful 
+login rate (26% credential theft) among different regions. 
 
-https://github.com/Parthshh19/Restaurant-Ratings-Prediction
+• User Behaviour Insights: Users aged 20-30 clicked links most frequently and female users were 1.5x more 
+likely to click phishing links. Finance/IT departments had the highest-risk employees. 
 
-Phishing-Campaign-Dashboard-using-Power-BI
+• Training Impact: Anti-phishing education increased reporting likelihood by 5.08x, while repeat offenders 
+were less likely to report. 
+ 
+### Blackspot Prediction in Victoria (https://github.com/Parthshh19/Blackspot-Prediction-in-Victoria) 
+\
+• Data Processing: Cleaned missing values via median imputation for skewed features, one-hot encoded 
+categorical variables, and optimized feature space by removing non-predictive columns. 
 
-https://github.com/Parthshh19/Phishing-Campaign-Dashboard-using-Power-BI.git
+• Exploratory Analysis: Identified key correlations using heatmaps, box plots, and count visualizations in 
+Seaborn/Matplotlib to identify key accident predictors. 
 
-EV-Ownership-Tableau-Dashboard
+• Feature Engineering: Selected top predictive features based on statistical significance and domain knowledge. 
+• Model Development: Built a logistic regression classifier, achieving 91.4% accuracy, with precision-recall 
+analysis revealing 72.9% precision for high-risk zones. 
 
-https://github.com/Parthshh19/EV-Ownership-Tableau-Dashboard.git
+• Deployment: Prepared for integration into road safety dashboards; proposed real-time monitoring enhancements. 
+ 
+### Theme Park Customer Reviews Analysis (https://github.com/Parthshh19/Theme-Park-Customer-Insights) 
+• Data Processing: Cleaned 35,000+ reviews across 3 theme parks using regex tokenization, stemming, and stop 
+word removal. Extracted nouns via POS tagging for focused analysis. 
+
+• Exploratory Data Analysis (EDA): Analysed visitor demographics and visualized seasonal trends for domestic 
+and international visits using datetime conversion and line charts. 
+
+• Sentiment Analysis: Implemented VADER analyser and calculated compound sentiment scores for each 
+review  revealing Hong Kong had highest positive sentiment (0.71 compound score). 
+
+• Topic Modelling (LDA): Identified 7 key themes (coherence: 0.60) including accessibility, employee 
+interactions, and amenities. Visualized topics via word clouds and probability distributions. 
+
+• Delivered actionable recommendations like targeted marketing, staff training, and accessibility upgrades. 
+ 
+### Waste Classification with Deep Learning (https://github.com/Parthshh19/Waste-Image-Classification) 
+
+• Business Need: Developed automated waste sorting system to improve recycling efficiency (6 categories: 
+cardboard, glass, metal, paper, plastic, vegetation). 
+
+• Data Processing: Cleaned 2,864 images (resized to 50×50, normalized pixel values) 
+
+• Model Implementation: Implemented CNN model and achieved 70.65% test accuracy with a strong performance 
+on vegetation (95% recall) but Plastic classification challenges due to visual similarities. 
+
+• Impact: Demonstrated CNN effectiveness for automated waste sorting, with potential to reduce manual labour 
+by 70% in recycling facilities.
